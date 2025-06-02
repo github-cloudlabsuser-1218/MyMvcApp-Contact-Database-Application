@@ -4,11 +4,11 @@
   "parameters": {
     "siteName": {
       "type": "string",
-      "defaultValue": "myMvcAppSite"
+      "defaultValue": "myMvcAppSite1150"
     },
     "hostingPlanName": {
       "type": "string",
-      "defaultValue": "myMvcAppPlan"
+      "defaultValue": "myMvcAppPlan1150"
     },
     "location": {
       "type": "string",
