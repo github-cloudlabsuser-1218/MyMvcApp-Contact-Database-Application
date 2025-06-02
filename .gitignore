@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# ASP.NET Core secrets
+secrets.json
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Publish output
+publish/
+wwwroot/
+
+# Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Others
+*.swp
+*.bak
+*.tmp
